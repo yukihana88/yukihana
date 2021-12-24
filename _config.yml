@@ -1,6 +1,6 @@
 # general configuration
 url: http://excentris.net
-baseurl: ''
+baseurl: '/yukihana'
 
 # compass configuration
 compass:
@@ -29,3 +29,4 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
+
